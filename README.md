@@ -14,11 +14,11 @@
 
 Inspired by [Google Interview University](https://github.com/jwasham/google-interview-university).
 
-Translations: [Brazilian Portuguese](https://github.com/ZuzooVn/machine-learning-for-software-engineers/blob/master/README-pt-BR.md) | [中文版本](https://github.com/ZuzooVn/machine-learning-for-software-engineers/blob/master/README-zh-CN.md)
+
 
 ## What is it?
 
-This is my multi-month study plan for going from mobile developer (self-taught, no CS degree) to machine learning engineer.
+This is my multi-month study plan for going from mobile developer  to machine learning engineer.
 
 My main goal was to find an approach to studying Machine Learning that is mainly hands-on and abstracts most of the Math for the beginner.
 This approach is unconventional because it’s the top-down and results-first approach designed for software engineers.
@@ -68,7 +68,7 @@ Think about my interest in machine learning:
 - [Can I learn and get a job in Machine Learning without studying CS Master and PhD?](https://www.quora.com/Can-I-learn-and-get-a-job-in-Machine-Learning-without-studying-CS-Master-and-PhD)
     - *"You can, but it is far more difficult than when I got into the field."* [Drac Smith](https://www.quora.com/Can-I-learn-and-get-a-job-in-Machine-Learning-without-studying-CS-Master-and-PhD/answer/Drac-Smith?srid=oT0p)
 - [How do I get a job in Machine Learning as a software programmer who self-studies Machine Learning, but  never has a chance to use it at work?](https://www.quora.com/How-do-I-get-a-job-in-Machine-Learning-as-a-software-programmer-who-self-studies-Machine-Learning-but-never-has-a-chance-to-use-it-at-work)
-    - *"I'm hiring machine learning experts for my team and your MOOC will not get you the job (there is better news below). In fact, many people with a master's in machine learning will not get the job because they (and most who have taken MOOCs) do not have a deep understanding that will help me solve my problems."* [Ross C. Taylor](https://www.quora.com/How-do-I-get-a-job-in-Machine-Learning-as-a-software-programmer-who-self-studies-Machine-Learning-but-never-has-a-chance-to-use-it-at-work/answer/Ross-C-Taylor?srid=oT0p)
+    - *"I'm hiring machine learning experts for my team and your MOOC will not get you the job (there is better news below). In fact, many people with a master's in machine learning will not get the job because they (and most who have taken MOOCs - Massive Open Online Courses) do not have a deep understanding that will help me solve my problems."* [Ross C. Taylor](https://www.quora.com/How-do-I-get-a-job-in-Machine-Learning-as-a-software-programmer-who-self-studies-Machine-Learning-but-never-has-a-chance-to-use-it-at-work/answer/Ross-C-Taylor?srid=oT0p)
 - [What skills are needed for machine learning jobs?](http://programmers.stackexchange.com/questions/79476/what-skills-are-needed-for-machine-learning-jobs)
     - *"First, you need to have a decent CS/Math background. ML is an advanced topic so most textbooks assume that you have that background. Second, machine learning is a very general topic with many sub-specialties requiring unique skills. You may want to browse the curriculum of an MS program in Machine Learning to see the course, curriculum and textbook."* [Uri](http://softwareengineering.stackexchange.com/a/79717)
     - *"Probability, distributed computing, and Statistics."* [Hydrangea](http://softwareengineering.stackexchange.com/a/79575)
@@ -92,18 +92,6 @@ I'm using Github's special markdown flavor, including tasks lists to check progr
 
 [More about Github-flavored markdown](https://guides.github.com/features/mastering-markdown/#GitHub-flavored-markdown)
 
-## Follow me
-I'm a Vietnamese Software Engineer who is really passionate and wants to work in the USA.
-
-How much did I work during this plan? Roughly 4 hours/night after a long, hard day at work.
-
-I'm on the journey.
-
-- Twitter: [@Nam Vu](https://twitter.com/zuzoovn)
-
-| ![Nam Vu - Top-down learning path: machine learning for software engineers](http://sv1.upsieutoc.com/2016/10/08/331f241c8da44d0c43e9324d55440db6.md.jpg)|
-|:---:|
-| USA as heck |
 
 ## Don't feel you aren't smart enough
 I get discouraged from books and courses that tell me as soon as I open them that multivariate calculus, inferential statistics and linear algebra are prerequisites. I still don’t know how to get started…
